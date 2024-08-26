@@ -9,8 +9,8 @@
 #include <UnixTime.h>
 
 #ifndef STASSID
-#define STASSID "Ilussiones"
-#define STAPSK "life2022"
+#define STASSID "ssid-of-your-WiFi"
+#define STAPSK "password-of-your-WiFi"
 #endif
 
 #define CURL "http://worldtimeapi.org/api/ip"
